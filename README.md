@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lewpiper
 - 👀 I’m interested in software development expanding my knowledge.
-- 🌱 I’m currently learning python and git.
+- 🌱 I’m currently learning python, git, and Django.
 - 📫 How to reach me @lewpiper on twitter
 
 <!---
